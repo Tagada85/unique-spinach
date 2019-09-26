@@ -5,17 +5,13 @@ sections:
     component: HeroBlock
     type: heroblock
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Freelance web developer, Javascript and JAVA related.
   - section_id: about
     component: ContentBlock
     type: contentblock
     title: About
     content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+      I am a French web developer. For 3 years now, I have been working with Javascript technologies and Spring Boot. I love learning new things and empower people with technology.
     actions:
       - label: Contact Me
         url: /contact
