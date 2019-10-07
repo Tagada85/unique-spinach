@@ -7,4 +7,4 @@ menus:
 template: contact
 ---
 
-To get in touch fill the form below.
+A question? A suggestion? A project idea? Whatever you have in mind, drop a message and I'll get back to you!

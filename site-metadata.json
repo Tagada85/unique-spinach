@@ -5,6 +5,7 @@
     "title": "Damien Cosset",
     "tagline": "French web developer mostly interested in Javascript and Java",
     "profile_img": "https://res.cloudinary.com/practicaldev/image/fetch/s--pebkZkJo--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/15827/8dbfb1b9-ef41-4b17-b59c-487fbc1769ed.jpg",
+    "logo": "images/logobleu.png",
     "bg": "dark",
     "has_nav": true,
     "has_social": true

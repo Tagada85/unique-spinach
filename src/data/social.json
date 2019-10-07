@@ -6,7 +6,12 @@
       "icon": "fa-twitter",
       "url": "https://twitter.com/DamCosset"
     },
-    null,
+    {
+      "type": "linkedin",
+      "title": "LinkedIn",
+      "icon": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/damien-cosset-701387101"
+    },
     {
       "type": "github",
       "title": "GitHub",
